@@ -1,0 +1,24 @@
+Commands
+
+Set up
+
+git version
+git config --list
+git config user.name
+git config user.email 
+cat /home/anno/.gitconfig
+git config --global color.ui true 
+
+Basic stuff 
+
+git clone URL
+git log 
+git init // Two ways to get a git repository. 
+git add . // Adds whole directory. 
+git status 
+git commit 
+git show // Shows the last commit. 
+git apply 
+git commit -a // Everything that has been tracked and modified and staged for commit. 
+git add NAME // stages files for commit. 
+
