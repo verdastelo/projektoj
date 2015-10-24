@@ -26,3 +26,14 @@ git diff
  export EDITOR // Change editor from Nano to something else. 
 git config --global core.editor emacs
 
+Branching
+
+Branching and merging. 
+git branch NAME // Creates a new branch called NAME. 
+git checkout NAME // Switches to NAME. New commits to NAME. 
+gitk // Visualisation.
+git merge NAME // Merges NAME to master. 
+git branch --merged // shows all merged branch. 
+git branch -d NAME // removes NAME from the merged branch. 
+git branch ticketNUMBER // Creates a branch from an arbitrary change. 
+
