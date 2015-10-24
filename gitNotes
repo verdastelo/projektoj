@@ -21,4 +21,8 @@ git show // Shows the last commit.
 git apply 
 git commit -a // Everything that has been tracked and modified and staged for commit. 
 git add NAME // stages files for commit. 
+git diff 
+// You can unstage files.
+ export EDITOR // Change editor from Nano to something else. 
+git config --global core.editor emacs
 
