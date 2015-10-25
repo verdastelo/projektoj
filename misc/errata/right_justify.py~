@@ -1,0 +1,10 @@
+def right_justify(s): #s is a string
+    dist = 70 - len(s) #distance to be moved to right
+    print dist*" " + s
+    print len(dist*" " + s)
+
+right_justify("Anna")
+right_justify("Chetan")
+right_justify("Linux")
+right_justify("Esperanto")
+right_justify("The United States of America")

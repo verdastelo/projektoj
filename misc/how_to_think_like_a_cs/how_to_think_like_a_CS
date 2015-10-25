@@ -1,0 +1,30 @@
+Q&A
+
+1. What is the difference between floats and doubles? (Must have something to do with memory.) 
+2. What is initialization? (Declaring a variable and assinging a value to it.) 
+3. The initialization statement "int x = 1.1" is illegal. Why does not an error display when it is compiled? (Conversion?)
+4. Why compiling "double y = 1/3" gives 0? 
+5. How does a computer adds, subtracts, divides, and multiplies floating point numbers? 
+6. How to use typecast to convert between types? (Mention the syntax.) 
+7. What is the syntax of a function? 
+8. What is a class definition? 
+9. Parameters and arguments are different. Describe. 
+10. Are voit main() and int main() different? 
+11. Look up state digram. 
+12. Expand 'Each time a function is called, it creates a new instance of that function.' 
+13. Declare the type of each parameter but do not declare the type of each argument. 
+14. 
+
+
+Mathematics
+
+1. Logarithms (Better Explained) 
+2. Trigonometry 
+3. 
+
+
+
+Notes
+
+1. For every type in C++, there is a corresponding type that typecasts its argument to the appropriate type. 
+

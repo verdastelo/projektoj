@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+
+name = "Ishchuk"
+number = 100  
+date = 2015
+
+print "Она зовут %s" % number 
+print "This is %r." % date
+
