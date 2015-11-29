@@ -53,4 +53,4 @@ git branch -a
 git blame gitNotes
 git blame -C gitNotes
 
-
+git bisect
